@@ -7,4 +7,4 @@ Test Repository for CI/CD Course
 
 ## Installation
 
-- How to Install
+How to Install
