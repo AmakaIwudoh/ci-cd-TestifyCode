@@ -9,5 +9,5 @@ jobs:
         os: [ macos-latest, ubuntu-latest, windows-latest ]
     steps:
       - uses: actions/checkout@v2
-      - run: python main.py
+      - run: python3 python_task.py
  
